@@ -1,0 +1,74 @@
+.nav{
+    background-color: rgb(224, 162, 16);
+    text-align: center;
+    margin:-20px 0 20px 0;
+    height: 80px;
+    padding-top: 20px;
+  }
+  
+  .header{
+    color: white;
+    font-size: 2.2rem;
+    font-weight: 400;
+    
+  }
+
+  .inp{
+    
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 10px 10px lightblue;
+    border: 2px solid rgb(120, 118, 118);
+    width: 35%;
+    margin: 75px 0 0 500px;
+    float: left;
+  }
+
+  .tinp{
+    display: block;
+    border: none;
+    padding: 10px 0 10px 0;
+    margin-left: 10px;
+    font-size: 1.2rem;
+    outline: none;
+    background-color: transparent;
+  }
+
+
+
+  .addbtn{
+    border-radius: 25px;
+    background-color: orange;
+    height: 45px;
+    width: 45px;
+    margin-left: 88%;
+    color: white;
+  }
+
+  .note{
+    height: 120px;
+    width: 200px;
+    border-radius: 6px;
+    float: left;
+    border: 2px solid gray;
+    margin: 80px 10px 0 30px;
+    text-align: left;
+    padding-left: 25px;
+    box-shadow: 5px 5px gray;
+  }
+
+  
+
+  .mainnote{
+    text-align: center;
+    margin: -500px 500px 0 10px;
+  }
+
+  .delbtn{
+    float: right;
+    border: none;
+    color: orange;
+    font-size: 1rem;
+    background-color: transparent;
+  }
